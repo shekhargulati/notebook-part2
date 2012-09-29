@@ -6,3 +6,4 @@ target
 bin
 *.jar
 ROOT.war
+*~
